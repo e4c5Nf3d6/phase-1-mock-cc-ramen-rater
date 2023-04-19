@@ -100,3 +100,9 @@ form h4 {
   color: white;
   background-color: black;
 }
+
+#delete-ramen {
+  background-color: darkred;
+  color: white;
+  font-size: x-large;
+}
